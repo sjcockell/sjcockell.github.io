@@ -28,6 +28,10 @@ url: "sjcockell.github.io" # the base hostname & protocol for your site, e.g. ht
 twitter_username: sjcockell
 github_username:  sjcockell
 
+header_pages: 
+        - about.markdown
+        - about.contact.markdown
+
 # Build settings
 theme: minima
 plugins:
