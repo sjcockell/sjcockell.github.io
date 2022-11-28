@@ -6,14 +6,15 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-GB"
+title                    : "Simon Cockell / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Simon Cockell"
+description              : &description "Simon Cockell, Senior Lecturer in Bioinformatics @ Newcastle University
+  School of Biomedical, Nutritional and Sport Sciences."
+url                      : https://sjcockell.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sjcockell/sjcockell.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,40 +81,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Simon J Cockell"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "Senior Lecturer in Bioinformatics and Director of Research, School of Biomedical, Nutritional and Sport Sciences, Newcastle University."
+  location         : "Newcastle, UK"
+  employer         : "Newcastle University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=s+cockell"
+  googlescholar    : "https://scholar.google.com/citations?user=CbuN1YAAAAAJ"
+  email            : "simon.cockell@newcastle.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/sjcockell"
   foursquare       :
-  github           : "academicpages"
+  github           : "sjcockell"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6831-9806"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/121177/sjcockell"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sjcockell"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/SimonCockell"
   wikipedia        :
 
 
